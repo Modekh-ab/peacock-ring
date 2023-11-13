@@ -1,0 +1,20 @@
+{
+  "item.ckh_tweaks.jodah_ring": "Перстень Джодаха",
+  "item.ckh_tweaks.jodah_ring.flight_time": "Время полёта: %1$s",
+
+  "tooltip.relics.jodah_ring.leveling": "§5[Джодах]§r А ты такой же молчаливый, как и... Впрочем, неважно. Используй же мой небольшой дар во благо старины Времени!\n\n+1 очко опыта за каждые 10 сек. в полёте.",
+
+  "tooltip.relics.jodah_ring.ability.flight": "Павлиньи крылышки",
+  "tooltip.relics.jodah_ring.ability.flight.description": "Позволяет носителю свободно летать в течение определённого времени.",
+  "tooltip.relics.jodah_ring.ability.flight.stat.duration.title": "Продолжительность полёта:",
+  "tooltip.relics.jodah_ring.ability.flight.stat.duration.value": "%1$s сек.",
+  "tooltip.relics.jodah_ring.ability.flight.stat.delay.title": "Делитель времени перезарядки (60 сек):",
+  "tooltip.relics.jodah_ring.ability.flight.stat.delay.value": "%1$s.",
+
+  "tooltip.relics.jodah_ring.ability.inf_flight": "Полуангел",
+  "tooltip.relics.jodah_ring.ability.inf_flight.description": "Даёт носителю §4бесконечный§r свободный полёт с эффектом «Скорость».",
+  "tooltip.relics.jodah_ring.ability.inf_flight.stat.effect_lvl.title": "Уровень эффекта:",
+  "tooltip.relics.jodah_ring.ability.inf_flight.stat.effect_lvl.value": "%1$s.",
+
+  "itemGroup.ckh_tab": "Дополнение ClownKhabibi"
+}

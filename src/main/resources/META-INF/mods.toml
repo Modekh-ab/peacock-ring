@@ -1,0 +1,39 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All Rights Reserved"
+logoFile="logo.png"
+
+[[mods]]
+modId="ckh_tweaks"
+version="${file.jarVersion}"
+displayName="ClownKhabibi Tweaks"
+authors="§cNurKhabib§r & §aClown.Net§r"
+description="Just a few tweaks for a §c'Clown§aKhabibi'§r modpack in the form of addon for §eSSKirillSS§r's §e'Relics'§r mod."
+
+[[dependencies.ckh_tweaks]]
+    modId = "forge"
+    mandatory = true
+    versionRange = "[43,)"
+    ordering = "NONE"
+    side = "BOTH"
+
+[[dependencies.ckh_tweaks]]
+    modId = "minecraft"
+    mandatory = true
+    versionRange = "[1.19.2,1.20)"
+    ordering = "NONE"
+    side = "BOTH"
+
+[[dependencies.ckh_tweaks]]
+    modId = "relics"
+    mandatory = true
+    versionRange = "[0.4.7.4,)"
+    ordering = "NONE"
+    side = "BOTH"
+
+[[dependencies.ckh_tweaks]]
+    modId = "curios"
+    mandatory = true
+    versionRange = "[1.19.2-5.1.1.0,)"
+    ordering = "NONE"
+    side = "BOTH"

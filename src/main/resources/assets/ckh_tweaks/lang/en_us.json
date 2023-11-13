@@ -1,0 +1,20 @@
+{
+  "item.ckh_tweaks.jodah_ring": "Jodah Ring",
+  "item.ckh_tweaks.jodah_ring.flight_time": "Flight Time: %1$s",
+
+  "tooltip.relics.jodah_ring.leveling": "+1 experience point for every 10 sec above the ground.",
+
+  "tooltip.relics.jodah_ring.ability.flight": "Peacock Wings",
+  "tooltip.relics.jodah_ring.ability.flight.description": "Allows the wearer to fly freely for a certain time.",
+  "tooltip.relics.jodah_ring.ability.flight.stat.duration.title": "Flight duration:",
+  "tooltip.relics.jodah_ring.ability.flight.stat.duration.value": "%1$s sec.",
+  "tooltip.relics.jodah_ring.ability.flight.stat.delay.title": "Recharge time divider (60 sec):",
+  "tooltip.relics.jodah_ring.ability.flight.stat.delay.value": "%1$s sec.",
+
+  "tooltip.relics.jodah_ring.ability.inf_flight": "Semi-angel",
+  "tooltip.relics.jodah_ring.ability.inf_flight.description": "Gives the wearer an §4endless§r freely flight with the «Speed» effect",
+  "tooltip.relics.jodah_ring.ability.inf_flight.stat.effect_lvl.title": "Effect level:",
+  "tooltip.relics.jodah_ring.ability.inf_flight.stat.effect_lvl.value": "%1$s.",
+
+  "itemGroup.ckh_tab": "ClownKhabibi Tweaks"
+}
