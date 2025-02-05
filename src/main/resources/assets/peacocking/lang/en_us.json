@@ -1,0 +1,26 @@
+{
+  "item.ckh_tweaks.peacock_ring": "Peacock Ring",
+  "item.ckh_tweaks.peacock_ring.flight_time": "Flight Time: %1$s sec",
+  "tooltip.relics.peacock_ring.leveling": "§5[Jodah]§r You're as silent as... well, doesn't matter. Use my little gift for the benefit of the Time mate!\n+2 experience point for every 3 sec above the ground.",
+
+  "tooltip.relics.peacock_ring.ability.flight": "Peacock Wings",
+  "tooltip.relics.peacock_ring.ability.flight.description": "Allows the wearer to fly freely for a certain time.",
+  "tooltip.relics.peacock_ring.ability.flight.stat.duration.title": "Flight duration:",
+  "tooltip.relics.peacock_ring.ability.flight.stat.duration.value": "%1$s seconds.",
+  "tooltip.relics.peacock_ring.ability.flight.stat.delay.title": "Recharge time divider (60 sec):",
+  "tooltip.relics.peacock_ring.ability.flight.stat.delay.value": "%1$s seconds.",
+
+  "tooltip.relics.peacock_ring.ability.thousand_eyes": "The Eye 993",
+  "tooltip.relics.peacock_ring.ability.thousand_eyes.description": "When using the ability, the enemy you're looking at will receive stunning damage.",
+  "tooltip.relics.peacock_ring.ability.thousand_eyes.predicate.hitting": "Health below 10 points",
+  "tooltip.relics.peacock_ring.ability.thousand_eyes.stat.damage.title": "Dealing damage:",
+  "tooltip.relics.peacock_ring.ability.thousand_eyes.stat.damage.value": "%1$s points.",
+
+  "tooltip.relics.peacock_ring.ability.inf_flight": "Semi-Angel",
+  "tooltip.relics.peacock_ring.ability.inf_flight.description": "Gives the wearer an §4endless§r freely flight.",
+
+  "item.ckh_tweaks.new_gen_book": "New Generations Book",
+  "tooltip.relics.new_gen_book.leveling": "+1 experience point for every using.",
+
+  "itemGroup.peacocking": "Peacocking"
+}

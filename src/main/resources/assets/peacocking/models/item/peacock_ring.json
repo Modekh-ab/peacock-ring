@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ckh_tweaks:items/jodah_ring"
+  }
+}
