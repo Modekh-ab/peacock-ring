@@ -1,6 +1,8 @@
 # 🪶 Peacock Ring | Peacocking
 > Current languages: `ENG` & `RU`
 
+🚨 Unstable alpha version, some functions are unavailable
+
 ## `ru`
 ### Дополнение к сборке 'ClownKhabibi' для Minecraft 1.19.2. Включает в себя предметы-реликвии с использованием API мода `Relics`.
 
