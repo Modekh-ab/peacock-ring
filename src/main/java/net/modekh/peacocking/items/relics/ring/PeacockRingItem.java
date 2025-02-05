@@ -98,14 +98,14 @@ public class PeacockRingItem extends RelicItem {
                     if (player.getAbilities().flying) {
                         if (player.tickCount % 20 == 0)
                             player.displayClientMessage(Component
-                                    .translatable("item.ckh_tweaks.jodah_ring.flight_time",
+                                    .translatable("item.peacocking.peacock_ring.flight_time",
                                             (maxTime - time) / 20)
                                     .withStyle(maxTime - time > 100
                                             ? ChatFormatting.GREEN : ChatFormatting.RED), true);
 
 //                        player.sendSystemMessage(Component.literal("hey, you're flying!"));
                         if (player.tickCount % 60 == 0) {
-                            player.sendSystemMessage(Component.literal(String.valueOf(player.tickCount)));
+//                            player.sendSystemMessage(Component.literal(String.valueOf(player.tickCount)));
                             dropExperience(world, playerPos, stack, 2);
                         }
 

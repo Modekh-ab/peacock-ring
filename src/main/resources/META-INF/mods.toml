@@ -27,20 +27,20 @@ side="BOTH"
 [[dependencies.peacocking]]
 modId="curios"
 mandatory=true
-versionRange="${curios_version_range}"
+versionRange="{curios_version_range}"
 ordering="NONE"
 side="BOTH"
 
 [[dependencies.peacocking]]
 modId="octolib"
 mandatory=true
-versionRange="${octolib_version_range}"
+versionRange="{octolib_version_range}"
 ordering="NONE"
 side="BOTH"
 
 [[dependencies.peacocking]]
 modId="relics"
 mandatory=true
-versionRange="${relics_version_range}"
+versionRange="{relics_version_range}"
 ordering="NONE"
 side="BOTH"

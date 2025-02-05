@@ -1,13 +1,12 @@
 package net.modekh.peacocking.init;
 
-
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
-import net.modekh.peacocking.Peacocking;
+import net.modekh.peacocking.utils.Reference;
 
-@Mod.EventBusSubscriber(modid = Peacocking.MODID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
+@Mod.EventBusSubscriber(modid = Reference.MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
 public class RemoteRegistry {
     @SubscribeEvent
     public static void clientSetup(final FMLClientSetupEvent event) {

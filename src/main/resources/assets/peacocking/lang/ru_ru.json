@@ -1,6 +1,6 @@
 {
-  "item.ckh_tweaks.peacock_ring": "Павлиний перстень",
-  "item.ckh_tweaks.peacock_ring.flight_time": "Время полёта: %1$s сек.",
+  "item.peacocking.peacock_ring": "Павлиний перстень",
+  "item.peacocking.peacock_ring.flight_time": "Время полёта: %1$s сек.",
   "tooltip.relics.peacock_ring.leveling": "§5[Джодах]§r А ты такой же молчаливый, как и... Впрочем, неважно. Используй же мой небольшой дар во благо старины Времени!\n+2 очка опыта за каждые 3 секунды в полёте.",
 
   "tooltip.relics.peacock_ring.ability.flight": "Павлиньи крылышки",
@@ -19,7 +19,7 @@
   "tooltip.relics.peacock_ring.ability.thousand_eyes.stat.damage.title": "Наносимый урон:",
   "tooltip.relics.peacock_ring.ability.thousand_eyes.stat.damage.value": "%1$s единиц.",
 
-  "item.ckh_tweaks.new_gen_book": "Книга новых поколений",
+  "item.peacocking.new_gen_book": "Книга новых поколений",
   "tooltip.relics.new_gen_book.leveling": "+1 очко опыта за каждое использование.",
 
   "itemGroup.peacocking": "Peacocking"
