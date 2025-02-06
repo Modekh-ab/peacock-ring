@@ -1,8 +1,0 @@
-type = panorama
-
-panorama-meta {
-  name = ckh_panorama
-  speed = 2
-  fov = 75.0
-  angle = 25.0
-}
